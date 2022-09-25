@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food_delivery/static/css/main.cf7caf28.css",
+    "main.js": "/food_delivery/static/js/main.6183dad5.js",
+    "static/js/787.94c44e5c.chunk.js": "/food_delivery/static/js/787.94c44e5c.chunk.js",
+    "static/media/background.png": "/food_delivery/static/media/background.755f826548b56ec254d0.png",
+    "static/media/background_footer.png": "/food_delivery/static/media/background_footer.db60123d47b394a1469a.png",
+    "static/media/smartphone1.png": "/food_delivery/static/media/smartphone1.c3f981a68ae4d15f0dce.png",
+    "static/media/smartphone_explore.png": "/food_delivery/static/media/smartphone_explore.320b291a401d1b1a9f39.png",
+    "static/media/smartphone2.png": "/food_delivery/static/media/smartphone2.70fd208a7e858f6def2d.png",
+    "static/media/smartphone_checkout.png": "/food_delivery/static/media/smartphone_checkout.f6b1c78f4ee46413517a.png",
+    "static/media/smartphone_regis.png": "/food_delivery/static/media/smartphone_regis.ef1cb70e06308ba4572b.png",
+    "index.html": "/food_delivery/index.html",
+    "main.cf7caf28.css.map": "/food_delivery/static/css/main.cf7caf28.css.map",
+    "main.6183dad5.js.map": "/food_delivery/static/js/main.6183dad5.js.map",
+    "787.94c44e5c.chunk.js.map": "/food_delivery/static/js/787.94c44e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7caf28.css",
+    "static/js/main.6183dad5.js"
+  ]
+}
