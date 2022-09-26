@@ -16,6 +16,9 @@ const Header = () => {
           <img src={logo} alt={logo} className='navbar-logo' />
         </a>
         <div className='navbar-desktop'>
+          <a href='#' className='navbar-link active'>
+            home
+          </a>
           <a href='#' className='navbar-link'>
             product
           </a>
@@ -31,8 +34,13 @@ const Header = () => {
       <div className={`sub-menu ${toggle ? 'active' : ''}`}>
         <ul className='sub-menu__container'>
           <li>
-            <a href='#' className='navbar-link'>
+            <a href='#' className='navbar-link active'>
               home
+            </a>
+          </li>
+          <li>
+            <a href='#' className='navbar-link'>
+              product
             </a>
           </li>
           <li>

@@ -62,7 +62,6 @@
     left: 0;
     right: 0;
     display: none;
-    height: 11rem;
     .sub-menu__container{
       list-style-type: none;
       padding-left: 0;
@@ -72,6 +71,9 @@
       .navbar-link {
         @include nav-link-css();
         
+      }
+      .active{
+        color: $textColorOrange;
       }
     }
   }
@@ -93,6 +95,9 @@
         justify-content: space-around;
         .navbar-link {
           @include nav-link-css();
+        }
+        .active{
+          color: $textColorOrange;
         }
       }
       .navbar-mobile {
